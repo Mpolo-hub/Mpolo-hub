@@ -4,10 +4,8 @@
 ### 💻 Programming & Web Development
 - PHP
 - Python
-- JavaScript
 - HTML5 & CSS3
 - Bootstrap
-- AJAX
 - Responsive Web Design
 
 ### 🗄️ Database Management
@@ -54,3 +52,39 @@
 ### 🎓 Professional Certifications
 - Associate Data Scientist in Python — DataCamp (2025)
 - 5-Day AI Agents: Intensive Vibe Coding Course — Google & Kaggle (2026)
+
+
+
+## 🌍 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| French | Excellent |
+| Portuguese | Intermediate |
+| English | Intermediate |
+| Lingala | Excellent |
+
+
+
+## 👨‍💻 About Me
+
+Hello! I'm Junior Mpolo, a Full-Stack Developer passionate about technology, software development, Data Science, and Artificial Intelligence.
+
+I specialize in building web applications, developing digital solutions, and exploring AI-powered technologies.
+
+### 🚀 Areas of Interest
+- Full-Stack Web Development
+- Python Programming
+- Data Science & Data Analysis
+- Artificial Intelligence & Agentic AI
+- AI Agents & Vibe Coding
+- Digital Transformation
+
+### 🎯 Currently Learning
+- Agentic AI Engineering
+- Advanced Python Development
+- AI Agent Development
+- Data Science & Machine Learning
+
+
+
